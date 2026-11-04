@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: "1.0.1"
+  version: "1.0.2"
 
 package:
   name: pystac-ext-pointcloud
@@ -9,7 +9,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/p/pystac-ext-pointcloud/pystac_ext_pointcloud-${{ version }}.tar.gz
-  sha256: 995b9ab0d84d22a2495add7a709f97b5cd9685c180d6da9af29c87383919aa15
+  sha256: a932644e9f83d28db3c0110fbf5c99e22780aea5f4230ddfe9c3500754d5119f
 
 build:
   number: 0
